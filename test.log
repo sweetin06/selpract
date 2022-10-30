@@ -1,0 +1,5 @@
+2022-10-27 16:55:23,032: DEBUG: debug msg
+2022-10-27 16:55:23,032: INFO: info msg
+2022-10-27 16:55:23,032: WARNING: warning msg
+2022-10-27 16:55:23,032: ERROR: error msg
+2022-10-27 16:55:23,032: CRITICAL: critical msg
